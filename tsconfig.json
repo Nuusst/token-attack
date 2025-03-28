@@ -15,7 +15,8 @@
   },
   "include": [
     "./tests/**/*",
-    "./app/**/*"
+    "./app/**/*",
+    "./*.ts"
   ],
   "exclude": [
     "node_modules",

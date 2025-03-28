@@ -12,3 +12,9 @@
 
     [scripts]
     test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
+
+    #[programs.devnet]
+    #token_attack_program = "3sM1ASvMscUm9G6XDJBQYa6SFLBxzxgaunD6WYYuzyh2"
+
+    #[programs.localnet]
+    #token_attack_program = "3sM1ASvMscUm9G6XDJBQYa6SFLBxzxgaunD6WYYuzyh2"
