@@ -17,7 +17,7 @@ use spl_token_2022::{
 };
 use std::str::FromStr;
 
-declare_id!("5GvXBxhLuh3tLA8jfNboArmoni7UuWtE8R9qv8qU8knf");
+declare_id!("2rHYrETDRZyCK8eXAiJXSo3ZoZSYnGpFSJhU5iJYMWiX");
 
 #[program]
 pub mod token_attack_program {
